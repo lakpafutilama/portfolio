@@ -7,16 +7,19 @@ export const Me = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Lakpa Lama</h1>
+        <h1 className={styles.title}>
+          Hi, I'm <br />
+          Lakpa Futi Lama
+        </h1>
         <p className={styles.description}>
-          Software Developer <br />
+          A Software Developer <br />
           Reach out if you'd like to learn more
         </p>
         <a
           href="https://www.linkedin.com/in/lakpa-lama-837494212/"
           className={styles.contactBtn}
         >
-          Contact Me
+          Resume
         </a>
       </div>
       <img

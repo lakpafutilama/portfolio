@@ -33,7 +33,7 @@ export const Contact = () => {
         <li className={styles.link}>
           <img src={getImageUrl("contact/emailIcon.png")} alt="Email icon" />
           <a href="#" onClick={copyEmailToClipboard}>
-            emailAddress
+            {emailAddress}
           </a>
         </li>
         <li className={styles.link}>

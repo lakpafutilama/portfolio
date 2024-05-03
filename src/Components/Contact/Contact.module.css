@@ -7,8 +7,8 @@
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
-  width: 100vw;
-  padding: 25px;
+  width: 95vw;
+  padding: 50px 28px;
   gap: 10px;
 }
 

@@ -1,16 +1,14 @@
 [
   {
     "role": "Software Developer",
-    "organisation": "Worldlink Communication",
+    "organization": "Worldlink Communication",
     "startDate": "March, 2023",
     "endDate": "Present",
     "experiences": [
       "Sequelize",
-      "PHP, Laravel, Lumen",
+      "PHP [Laravel, Lumen]",
       "Docker",
       "CI/CD",
-      "MySQL, PostgreSQL",
-      "SQLDeveloper",
       "RabbitMQ",
       "GraphQL"
     ],
@@ -18,7 +16,7 @@
   },
   {
     "role": "Intern",
-    "organisation": "Worldlink Communication",
+    "organization": "Worldlink Communication",
     "startDate": "Dec, 2022",
     "endDate": "Feb, 2023",
     "experiences": ["Research", "Learning", "Nodejs", "MongoDB"],

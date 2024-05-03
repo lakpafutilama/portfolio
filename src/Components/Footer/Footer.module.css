@@ -1,0 +1,12 @@
+@import "../../vars.css";
+
+.container {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+  padding: 0px 20px;
+  text-align: center;
+  color: white;
+}

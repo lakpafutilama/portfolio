@@ -35,12 +35,20 @@ export const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cicd.png")} alt="UI icon" />
+            <img src={getImageUrl("about/serverIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>CICD</h3>
+              <h3>Database</h3>
               <p>
-                I have familiar with tools and technologies commonly used in
-                CI/CD pipelines
+                I have practical knowledge of relational and non-relational
+                database
+                <ul>
+                  <li>MySQL</li>
+                  <li>PostgreSQL</li>
+                  <li>SQLDeveloper</li>
+                  <li>MongoDB</li>
+                  <li>Cassandra</li>
+                  <li>Redis</li>
+                </ul>
               </p>
             </div>
           </li>
