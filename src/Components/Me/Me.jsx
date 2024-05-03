@@ -16,7 +16,7 @@ export const Me = () => {
           Reach out if you'd like to learn more
         </p>
         <a
-          href="https://www.linkedin.com/in/lakpa-lama-837494212/"
+          href="https://drive.google.com/file/d/13WMaui-i5KnSGXGArtqhBX3fvSQWJ-7q/view?usp=sharing"
           className={styles.contactBtn}
         >
           Resume
