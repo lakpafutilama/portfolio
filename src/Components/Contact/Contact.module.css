@@ -7,9 +7,9 @@
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
-  width: 95vw;
+  width: 100%;
   padding: 50px 28px;
-  gap: 10px;
+  gap: 15px;
 }
 
 .text h2 {
